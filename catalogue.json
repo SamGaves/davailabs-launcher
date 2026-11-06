@@ -1,0 +1,67 @@
+{
+  "whop": {
+    "accountId": "biz_chVppzusYzZ8Nb",
+    "clientId": "app_4wpXlNog3ZcN2S",
+    "store": "https://whop.com/davailabs/"
+  },
+  "github": {
+    "owner": "SamGaves"
+  },
+  "news": [
+    {
+      "tag": "NOUVEAU",
+      "title": "Snow Rush est disponible !",
+      "text": "Dévale la piste pendant que tes viewers t'envoient avalanches, yéti et tornades.",
+      "game": "snowrush"
+    },
+    {
+      "tag": "MISE À JOUR",
+      "title": "Garden Panic v1.7.6",
+      "text": "Nouveau bonus Boule de feu, nuages réglables et jusqu'à 12 robots par cadeau.",
+      "game": "gardenpanic"
+    },
+    {
+      "tag": "DISCORD",
+      "title": "Rejoins la communauté DavaiLabs",
+      "text": "Support, nouveautés en avant-première et meilleurs clips des streamers.",
+      "link": "https://discord.gg/NcgaGCJS8q",
+      "emoji": "💬"
+    }
+  ],
+  "games": {
+    "paintbomber": {
+      "emoji": "🎨",
+      "colors": [
+        "#2F6BFF",
+        "#FF8A1F"
+      ],
+      "repo": "paintbomber",
+      "exe": "PaintBomber.exe",
+      "size": "300 Mo",
+      "tagline": "Repeins toute la map en bleu pendant que tes viewers la bombardent de peinture."
+    },
+    "gardenpanic": {
+      "emoji": "🌱",
+      "colors": [
+        "#3FBF5A",
+        "#B8F05A"
+      ],
+      "repo": "gardenpanic",
+      "exe": "GardenPanic.exe",
+      "size": "380 Mo",
+      "tagline": "Tonds toute la pelouse avant que tes viewers ne la fassent repousser."
+    },
+    "snowrush": {
+      "emoji": "🛷",
+      "colors": [
+        "#3C8DFF",
+        "#9FE7FF"
+      ],
+      "repo": "snowrush",
+      "exe": "SnowRush.exe",
+      "size": "350 Mo",
+      "tagline": "Dévale la piste pendant que tes viewers t'envoient avalanches, yéti et tornades."
+    }
+  },
+  "soon": []
+}
