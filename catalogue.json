@@ -10,20 +10,36 @@
   "news": [
     {
       "tag": "NOUVEAU",
+      "tag_en": "NEW",
+      "tag_es": "NUEVO",
       "title": "Snow Rush est disponible !",
+      "title_en": "Snow Rush is out!",
+      "title_es": "¡Snow Rush ya está disponible!",
       "text": "Dévale la piste pendant que tes viewers t'envoient avalanches, yéti et tornades.",
+      "text_en": "Race down the slope while your viewers send avalanches, yetis and tornadoes.",
+      "text_es": "Baja la pista mientras tus espectadores te lanzan avalanchas, yetis y tornados.",
       "game": "snowrush"
     },
     {
       "tag": "MISE À JOUR",
+      "tag_en": "UPDATE",
+      "tag_es": "ACTUALIZACIÓN",
       "title": "Garden Panic v1.7.6",
+      "title_en": "Garden Panic v1.7.6",
+      "title_es": "Garden Panic v1.7.6",
       "text": "Nouveau bonus Boule de feu, nuages réglables et jusqu'à 12 robots par cadeau.",
+      "text_en": "New Fireball bonus, adjustable clouds and up to 12 robots per gift.",
+      "text_es": "Nuevo bonus Bola de fuego, nubes ajustables y hasta 12 robots por regalo.",
       "game": "gardenpanic"
     },
     {
       "tag": "DISCORD",
       "title": "Rejoins la communauté DavaiLabs",
+      "title_en": "Join the DavaiLabs community",
+      "title_es": "Únete a la comunidad DavaiLabs",
       "text": "Support, nouveautés en avant-première et meilleurs clips des streamers.",
+      "text_en": "Support, sneak peeks and the best streamer clips.",
+      "text_es": "Soporte, novedades en primicia y los mejores clips de streamers.",
       "link": "https://discord.gg/NcgaGCJS8q",
       "emoji": "💬"
     }
@@ -38,7 +54,9 @@
       "repo": "paintbomber",
       "exe": "PaintBomber.exe",
       "size": "300 Mo",
-      "tagline": "Repeins toute la map en bleu pendant que tes viewers la bombardent de peinture."
+      "tagline": "Repeins toute la map en bleu pendant que tes viewers la bombardent de peinture.",
+      "tagline_en": "Paint the whole map blue while your viewers bomb it with paint.",
+      "tagline_es": "Pinta todo el mapa de azul mientras tus espectadores lo bombardean con pintura."
     },
     "gardenpanic": {
       "emoji": "🌱",
@@ -49,7 +67,9 @@
       "repo": "gardenpanic",
       "exe": "GardenPanic.exe",
       "size": "380 Mo",
-      "tagline": "Tonds toute la pelouse avant que tes viewers ne la fassent repousser."
+      "tagline": "Tonds toute la pelouse avant que tes viewers ne la fassent repousser.",
+      "tagline_en": "Mow the whole lawn before your viewers make it grow back.",
+      "tagline_es": "Corta todo el césped antes de que tus espectadores lo hagan crecer de nuevo."
     },
     "snowrush": {
       "emoji": "🛷",
@@ -60,7 +80,9 @@
       "repo": "snowrush",
       "exe": "SnowRush.exe",
       "size": "350 Mo",
-      "tagline": "Dévale la piste pendant que tes viewers t'envoient avalanches, yéti et tornades."
+      "tagline": "Dévale la piste pendant que tes viewers t'envoient avalanches, yéti et tornades.",
+      "tagline_en": "Race down the slope while your viewers send avalanches, yetis and tornadoes.",
+      "tagline_es": "Baja la pista mientras tus espectadores te lanzan avalanchas, yetis y tornados."
     }
   },
   "soon": []
