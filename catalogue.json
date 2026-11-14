@@ -7,6 +7,13 @@
   "github": {
     "owner": "SamGaves"
   },
+  "discord": "https://discord.gg/NcgaGCJS8q",
+  "club": {
+    "route": "davaiclub",
+    "upcoming": [
+      "ShovelMania"
+    ]
+  },
   "news": [
     {
       "tag": "NOUVEAU",
