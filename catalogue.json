@@ -10,11 +10,21 @@
   "discord": "https://discord.gg/NcgaGCJS8q",
   "club": {
     "route": "davaiclub",
-    "upcoming": [
-      "ShovelMania"
-    ]
+    "upcoming": []
   },
   "news": [
+    {
+      "tag": "NOUVEAU",
+      "tag_en": "NEW",
+      "tag_es": "NUEVO",
+      "title": "ShovelMania est disponible !",
+      "title_en": "ShovelMania is out!",
+      "title_es": "¡ShovelMania ya está disponible!",
+      "text": "Déneige la place du village avant que tes viewers ne l'ensevelissent : 18 events liés aux cadeaux, traîneau du Père Noël et blizzard.",
+      "text_en": "Clear the village square before your viewers bury it: 18 gift-triggered events, Santa's sleigh and blizzards.",
+      "text_es": "Despeja la plaza del pueblo antes de que tus espectadores la entierren: 18 eventos con regalos, el trineo de Papá Noel y ventiscas.",
+      "game": "shovelmania"
+    },
     {
       "tag": "NOUVEAU",
       "tag_en": "NEW",
@@ -90,6 +100,20 @@
       "tagline": "Dévale la piste pendant que tes viewers t'envoient avalanches, yéti et tornades.",
       "tagline_en": "Race down the slope while your viewers send avalanches, yetis and tornadoes.",
       "tagline_es": "Baja la pista mientras tus espectadores te lanzan avalanchas, yetis y tornados."
+    },
+    "shovelmania": {
+      "emoji": "⛄",
+      "colors": [
+        "#E5394F",
+        "#8FD8FF"
+      ],
+      "repo": "shovelmania",
+      "tagline": "Déneige toute la place du village pendant que tes viewers t'envoient boules de neige, chasse-neige et blizzard.",
+      "tagline_en": "Clear the whole village square of snow while your viewers send snowballs, snowplows and blizzards.",
+      "tagline_es": "Quita la nieve de toda la plaza del pueblo mientras tus espectadores te lanzan bolas de nieve, quitanieves y ventiscas.",
+      "ribbon": "NOUVEAU",
+      "ribbon_en": "NEW",
+      "ribbon_es": "NUEVO"
     }
   },
   "soon": []
